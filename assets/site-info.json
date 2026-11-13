@@ -1,0 +1,16 @@
+{
+  "name": "Eber Hernandez",
+  "email": "javierhcruz257@hotmail.com",
+  "country": "Honduras",
+  "pages": [
+    "index.html",
+    "servicios.html",
+    "herramientas.html",
+    "contacto.html"
+  ],
+  "site_type": "Aprendizaje · IA · Organización",
+  "tool": "Bitácora de aprendizaje y pruebas",
+  "storage": "Datos locales en este navegador; exportación e importación JSON",
+  "external_links": "configuracion.js: enlaces opcionales ocultos si están vacíos",
+  "imagery": "Imagen editorial ilustrativa; no representa un proyecto realizado."
+}
